@@ -1,4 +1,4 @@
-# Fashion MNIST Convolutional Neural Network (CNN) Model
+## Fashion MNIST Convolutional Neural Network (CNN) Model
 This repository contains code for training a Convolutional Neural Network (CNN) model on the Fashion MNIST dataset. Fashion MNIST is a dataset consisting of 60,000 training images and 10,000 test images, each of size 28x28 pixels, belonging to 10 different fashion categories. The goal is to classify these images into their respective categories using deep learning techniques.
 
 # Dataset
